@@ -8,7 +8,7 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 ## Featured in Krish's Live Session on YouTube
 
-[![app home page](https://github.com/rajatrai16921/movie-recommender-system/blob/main/static/appfront.JPG)]
+![app home page](https://github.com/rajatrai16921/movie-recommender-system/blob/main/static/appfront.JPG)
 
 
 ## How to get the API key?
