@@ -12,7 +12,8 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 ![top cast](https://github.com/rajatrai16921/movie-recommender-system/blob/main/static/topcast.JPG)
 ![reviews](https://github.com/rajatrai16921/movie-recommender-system/blob/main/static/reviews.JPG)
 ![movie recommendations](https://github.com/rajatrai16921/movie-recommender-system/blob/main/static/movierec.JPG)
-![video](https://github.com/rajatrai16921/movie-recommender-system/blob/main/screenrecord.mp4)
+![video](https://user-images.githubusercontent.com/80592682/182115088-161bc5fd-1cd2-4571-8408-a5a3451f1a47.mp4)
+
 
 
 ## How to get the API key?
