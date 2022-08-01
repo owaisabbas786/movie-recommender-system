@@ -6,10 +6,12 @@ Content Based Recommender System recommends movies similar to the movie user lik
 The details of the movies(title, genre, runtime, rating, poster, etc) are fetched using an API by TMDB, https://www.themoviedb.org/documentation/api, and using the IMDB id of the movie in the API, I did web scraping to get the reviews given by the user in the IMDB site using `beautifulsoup4` and performed sentiment analysis on those reviews.
  
 
-## Featured in Krish's Live Session on YouTube
+## Features
 
 ![app home page](https://github.com/rajatrai16921/movie-recommender-system/blob/main/static/appfront.JPG)
-
+![top cast](https://github.com/rajatrai16921/movie-recommender-system/blob/main/static/topcast.JPG)
+![reviews](https://github.com/rajatrai16921/movie-recommender-system/blob/main/static/reviews.JPG)
+![movie recommendations](https://github.com/rajatrai16921/movie-recommender-system/blob/main/static/movierec.JPG)
 
 ## How to get the API key?
 
